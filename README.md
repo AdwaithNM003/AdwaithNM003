@@ -47,13 +47,6 @@
 
 ---
 
-### 🗓️ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaithNM003&theme=tokyo-night" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 - 🧮 **Personal Expense Tracker** – Java + MongoDB  
 - 🏏 **Cricket Analytics ML Project** – Predicting batsman-bowler outcomes with ML  
